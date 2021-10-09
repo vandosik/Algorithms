@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms_course
+Here i would put my sources of labs for the Algorithms course
